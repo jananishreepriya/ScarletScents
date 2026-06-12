@@ -109,21 +109,7 @@ Using the knowledge gained from these resources, I revisited my original interns
 
 ## 📂 Project Structure
 
-ScarletScents/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── image/
-│   ├── p1.jpg
-│   ├── p2.jpg
-│   ├── p3.jpg
-│   ├── p4.jpg
-│   ├── p5.jpg
-│   └── p6.jpg
-│
-└── README.md
+<img width="252" height="233" alt="image" src="https://github.com/user-attachments/assets/d57c5f3b-114a-413a-bddb-355e32aedc91" />
 
 
 ## 🎯 Skills Demonstrated
