@@ -93,6 +93,10 @@ Using the knowledge gained from these resources, I revisited my original interns
 
 * HTML5
 * CSS3
+* 
+### Deployment
+
+* Netlify
 
 ### Concepts Applied
 
@@ -122,10 +126,7 @@ Using the knowledge gained from these resources, I revisited my original interns
 * CSS Variables
 * CSS Animations & Transitions
 * Semantic Web Development
-* UI/UX Fundamentals
 * Frontend Project Deployment
-* Website Optimization
-
 
 ## 🔮 Future Enhancements
 
