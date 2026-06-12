@@ -3,10 +3,14 @@
 A modern, responsive fragrance website originally developed during my internship at **Gurumantra4u** and later enhanced through continuous self-learning. Scarlet Scents showcases modern HTML5 and CSS3 practices, semantic web development, responsive design, animations, and an elegant user experience inspired by premium fragrance brands.
 
 🔗 **Live Demo:** 
-
+https://scarletscents.netlify.app/
 
 ## 📸 Preview
+Dark theme
+<img width="1906" height="958" alt="image" src="https://github.com/user-attachments/assets/48cd809f-cf3a-4cb6-84fc-90b070d677f1" />
 
+Light theme
+<img width="953" height="479" alt="image" src="https://github.com/user-attachments/assets/27b11cb1-5022-4231-b267-223176d6c24a" />
 
 
 ## 💼 Internship Details
@@ -155,8 +159,8 @@ Janani Shree Priya M
 
 ### Connect With Me
 
-* LinkedIn: 
-* GitHub: 
+* LinkedIn: https://www.linkedin.com/in/jananishreepriya-m/
+* GitHub: https://github.com/jananishreepriya
 
 
 ## 📜 License
